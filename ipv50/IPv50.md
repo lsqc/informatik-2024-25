@@ -1,6 +1,6 @@
 # IPv50 – A theoretical 50-Bit IP addressing system 
 
-**IPv50** is a fictional network addressing model using **50-bit** IP addresses. It was created to demonstrate and explain the structure of existing IPv4 and IPv6 adressing and how it could theoretically be extended.
+**IPv50** (or _IPv550_; not quite sure what to call it lol) is a fictional network addressing model using **50-bit** IP addresses. It was created to demonstrate and explain the structure of existing IPv4 and IPv6 adressing and how it could theoretically be extended.
 
 ---
 
