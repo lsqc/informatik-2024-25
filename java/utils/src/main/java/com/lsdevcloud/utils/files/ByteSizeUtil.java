@@ -28,7 +28,7 @@ public final class ByteSizeUtil
     {
         if (sizeInBytes < 0)
         {
-            throw new IllegalArgumentException("File size must be positive");
+            throw new IllegalArgumentException("Byte size must be positive");
         }
 
         double size = sizeInBytes;
@@ -53,7 +53,7 @@ public final class ByteSizeUtil
     {
         if (sizeInBytes < 0)
         {
-            throw new IllegalArgumentException("File size must be positive");
+            throw new IllegalArgumentException("Byte size must be positive");
         }
 
         double size = sizeInBytes;
